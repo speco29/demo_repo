@@ -1,4 +1,4 @@
 # demo_repo
 Legit repository
 <br>
-Author - Diya
+Author - Diya Singh
